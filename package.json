@@ -1,0 +1,14 @@
+{
+  "name": "electron-video-info",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/Adnan-Hussain22/Electron-Video-Info.git",
+  "author": "Adnan Hussain",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^5.0.8"
+  }
+}
